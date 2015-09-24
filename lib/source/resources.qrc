@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>connect.png</file>
+<file>disconnect.png</file>
+<file>portSet.png</file>
+<file>mode.png</file>
+<file>working.png</file>
+<file>debug.png</file>
+<file>mainBackground.png</file>
+<file>subBackground.png</file>
+<file>calibration.png</file>
+<file>statistics.png</file>
+<file>wirelessSet.png</file>
+<file>showPortWindow.png</file>
+<file>disCollectData.png</file>
+<file>collectData.png</file>
+</qresource>
+</RCC>

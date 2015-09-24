@@ -1,0 +1,4 @@
+C:\pyqt\chap06>pyrcc4 -o qrc_resources.py resources.qrc
+
+<file>mainBackground.png</file>
+<file>subBackground.png</file>
